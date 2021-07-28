@@ -1,0 +1,1 @@
+net use s: \\10.0.20.50\share /user:kubsau\citinstall * /persistent:no
