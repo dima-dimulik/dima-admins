@@ -1,1 +1,1 @@
-net use s: \\ip\share /user:kubsau\username * /persistent:no
+net use s: \\10.0.20.50\share /user:kubsau\citinstall * /persistent:no
