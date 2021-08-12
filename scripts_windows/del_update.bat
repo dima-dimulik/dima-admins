@@ -1,0 +1,1 @@
+wusa /uninstall /kb:KB5000802 /quiet
